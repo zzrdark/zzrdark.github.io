@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 author: zzrdark
-title:设计模式-原型模式
+title: 设计模式-原型模式
 tags: 设计模式
 categories: 设计模式 
 data: 2019-08-10 12:30:00
