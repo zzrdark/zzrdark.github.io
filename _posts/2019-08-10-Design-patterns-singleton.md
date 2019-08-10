@@ -1,16 +1,16 @@
 ﻿---
 layout: post
-title: 设计模式-单例模式
-categories: 设计模式
-tags: 设计模式 
 author: zzrdark
-date:   2019-08-10 12:20:00
+title: 设计模式-单例模式
+tags: 设计模式
+categories: 设计模式 
+data: 2019-08-10 12:20:00
+
 ---
 
 
 * content
 {:toc}
-
 
 
 # 单例模式

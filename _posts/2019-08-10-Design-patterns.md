@@ -1,16 +1,14 @@
-﻿---
+---
 layout: post
 author: zzrdark
 title: 设计模式概述
 tags: 设计模式
 categories: 设计模式 
 data: 2019-08-10 12:00:00
-
 ---
 
 * content
 {:toc}
-
 
 
 # 设计模式
