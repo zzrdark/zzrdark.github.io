@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 author: zzrdark
 title:设计模式-工厂模式
@@ -8,9 +8,8 @@ data: 2019-08-10 12:10:00
 
 ---
 
-
-
-[TOC]
+* content
+{:toc}
 
 
 

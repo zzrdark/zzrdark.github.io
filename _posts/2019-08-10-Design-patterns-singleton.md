@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 author: zzrdark
 title:设计模式-单例模式
@@ -9,10 +9,8 @@ data: 2019-08-10 12:20:00
 ---
 
 
-
-[TOC]
-
-
+* content
+{:toc}
 
 
 

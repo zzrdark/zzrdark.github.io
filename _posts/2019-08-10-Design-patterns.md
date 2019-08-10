@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 author: zzrdark
 title:设计模式概述
@@ -8,7 +8,8 @@ data: 2019-08-10 12:00:00
 
 ---
 
-[TOC]
+* content
+{:toc}
 
 
 

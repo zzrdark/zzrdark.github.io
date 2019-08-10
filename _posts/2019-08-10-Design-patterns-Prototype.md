@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 author: zzrdark
 title:设计模式-原型模式
@@ -9,9 +9,8 @@ data: 2019-08-10 12:30:00
 ---
 
 
-
-[TOC]
-
+* content
+{:toc}
 
 
 # 原型模式（Prototype）
